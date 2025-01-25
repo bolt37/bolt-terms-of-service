@@ -13,6 +13,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
           japanese.md
+          english/english.md
         title: bolt privacy policy
     - uses: actions/upload-pages-artifact@v3
       with:

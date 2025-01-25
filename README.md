@@ -2,4 +2,5 @@
 
 github pagesでterms of serviceをdeployする。
 
-https://bolt37.github.io/bolt-terms-of-service/
+日本語：https://bolt37.github.io/bolt-terms-of-service/
+英語：https://bolt37.github.io/bolt-terms-of-service/english/
