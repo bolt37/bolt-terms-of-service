@@ -45,7 +45,9 @@ If the Company determines that any of the following circumstances exist, the Com
 1. When carrying out maintenance, inspection, or updates of computer systems related to the Service
 2. When it becomes difficult to provide the Service due to force majeure such as earthquakes, lightning, fires, power outages, or natural disasters
 3. When a computer or communication line is stopped due to an accident
-4. In addition, if the Company determines that it is difficult to provide the Service, the Company shall not be liable for any disadvantage or damage suffered by the User or a third party due to the suspension or interruption of the provision of the Service.
+4. In addition, if the Company determines that it is difficult to provide the Service.
+
+The Company shall not be liable for any disadvantages or damages incurred by users or third parties due to suspension or interruption of the provision of the Service for the above reasons.
 
 ## Article 8 (Restrictions on Use and Cancellation of Registration)
 If a User falls under any of the following items, the Company may, without prior notice, restrict the User's use of all or part of the Service or cancel the User's registration as such.
@@ -55,7 +57,9 @@ If a User falls under any of the following items, the Company may, without prior
 3. If there is a default in payment obligations such as fees
 4. If there is no response to our contact for a certain period of time
 5. If the Service has not been used for a certain period of time since the last use
-6. In addition, if the Company determines that the use of the Service is inappropriate, the Company shall not be liable for any damages incurred by the User as a result of any action taken by the Company pursuant to this Article.
+6. In addition, if our company determines that the use of this service is inappropriate.
+
+The Company shall not be responsible for any damage caused to the User due to the Company's actions pursuant to this article.
 
 # Article 9 (Withdrawal)
 
@@ -80,7 +84,9 @@ We may change, add or discontinue the content of this service with prior notice 
 We may change these Terms of Use without obtaining the individual consent of Users in the following cases:
 
 1. When changes to these Terms and Conditions are in the general interest of users.
-2. When the change to these Terms of Use does not violate the purpose of the Service Agreement and is reasonable in light of the necessity for the change, the appropriateness of the content after the change, and other circumstances related to the change. When changing these Terms of Use pursuant to the preceding paragraph, the Company will notify the User in advance of the change to these Terms of Use, the content of the changed Terms of Use, and the effective date of the change.
+2. When the change to these Terms of Use does not violate the purpose of the Service Agreement and is reasonable in light of the necessity for the change, the appropriateness of the content after the change, and other circumstances related to the change.
+
+When changing these Terms of Use pursuant to the preceding paragraph, the Company will notify the User in advance of the change to these Terms of Use, the content of the changed Terms of Use, and the effective date of the change.
 
 ## Article 13 (Handling of Personal Information)
 We will handle any personal information obtained through the use of this service appropriately in accordance with our "Privacy Policy."
@@ -103,7 +109,7 @@ For inquiries regarding these terms and conditions, please contact the following
 
 Address: 468-0015 Aichi Prefecture Nagoya City Tenpaku Ward Hara 1-1202 White Castle Hirabari I 1205
 
-Shop name: bolt
+Business name: bolt
 
 Representative: Toshihiro Takagi
 
